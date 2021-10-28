@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey Devs!!!</h1>
 <p align="center">Sejam Muito Bem-Vindos ao Meu Perfil.</p>
-<p align="center">Me chamo Lucas Alixame, Desenvolvedor Back-End e Instrutor.</p>
+<p align="center">Me chamo Lucas Alixame, sou Desenvolvedor Back-End e Instrutor.</p>
 
   <h1> Ações:
   <div align="center">
