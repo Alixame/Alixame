@@ -56,7 +56,7 @@ Linguagens & Tecnologias: `C#`, `PHP`, `SQL Server`, `Oracle`\
 
 <p align="center">
   <a href="http://portfoliolu.ld2v.com.br/" alt="Site Pessoal">
-  <img src="https://img.shields.io/badge/-site-0e76a8?style=flat-square&logo=site&logoColor=white&link=http://portfoliolu.ld2v.com.br/" /></a>
+  <img src="https://img.shields.io/badge/-Site Pessoal-0e76a8?style=flat-square&logo=stars&logoColor=white&link=http://portfoliolu.ld2v.com.br/" /></a>
   
   <a href="https://www.linkedin.com/in/lucas-alixame-2747a01b7/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alixame-2747a01b7/" /></a>
