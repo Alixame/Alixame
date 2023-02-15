@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<a href="https://app.daily.dev/Alixame"><img src="https://api.daily.dev/devcards/7deb800a89e24092bbec0ebbdc5edc43.png?r=8nd" min-width="300px" max-width="300px" width="300px" align="right" alt="Lucas Alixame's Dev Card"/></a>
 
 ### Hey Devs!
 
