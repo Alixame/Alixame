@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Sejam Bem-vindos ao meu perfil.<br>
-  Meu nome é <strong>Lucas Alixame</strong> e trabalho como <strong>Desenvolvedor Back-End</strong>.
+  Meu nome é <strong>Lucas Alixame</strong> e trabalho como <strong>Desenvolvedor Full-Stack</strong>.
 </p>
 
 **Linguagens & Frameworks**
@@ -34,14 +34,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Epics" src="http://portfoliolu.ld2v.com.br/img/epics.png"/>](https://epics.com.br/)
 
-**Desenvolvedor Back-End** \
+**Desenvolvedor Full-Stack** \
 [**EPICS**](https://epics.com.br/) • Desenvolvedor Junior \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Epics" src="http://portfoliolu.ld2v.com.br/img/epics.png"/>](https://epics.com.br/)
 
-**Desenvolvedor Back-End** \
+**Desenvolvedor Full-Stack** \
 [**EPICS**](https://epics.com.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
