@@ -36,21 +36,21 @@
 ### Experiência de trabalho 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Epics" src="http://portfoliolu.ld2v.com.br/img/epics.png"/>](https://epics.com.br/)
+[<img align="left" width="150px" height="50px" alt="Epics" src="https://www.epics.com.br/assets/logos/logo-epics-branco.svg"/>](https://epics.com.br/)
 
 **Desenvolvedor Full-Stack** \
 [**EPICS**](https://epics.com.br/) • Desenvolvedor Junior \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Epics" src="http://portfoliolu.ld2v.com.br/img/epics.png"/>](https://epics.com.br/)
+[<img align="left" width="150px" height="50px" alt="Epics" src="https://www.epics.com.br/assets/logos/logo-epics-branco.svg"/>](https://epics.com.br/)
 
 **Desenvolvedor Full-Stack** \
 [**EPICS**](https://epics.com.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Riosoft" src="http://portfoliolu.ld2v.com.br/img/riosoft.jpg"/>](https://www.riosoft.com.br/)
+[<img align="left" width="150px" height="50px" alt="Riosoft" src="https://www.riosoft.com.br/wp-content/uploads/2022/10/Riosoft-Logo-2.png"/>](https://www.riosoft.com.br/)
 
 **Desenvolvedor Back-End** \
 [**Riosoft**](https://www.riosoft.com.br/) • Estágio \
