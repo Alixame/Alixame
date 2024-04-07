@@ -50,7 +50,7 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `L
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
 
-[<img align="left" width="150px" height="50px" alt="Riosoft" src="https://www.riosoft.com.br/wp-content/uploads/2022/10/Riosoft-Logo-2.png"/>](https://www.riosoft.com.br/)
+[<img align="left" width="150px" height="50px" alt="Riosoft" src="https://riosoft.com.br/wp-content/uploads/2024/01/Riosoft-Logo-512x512-1.png"/>](https://riosoft.com.br)
 
 **Desenvolvedor Back-End** \
 [**Riosoft**](https://www.riosoft.com.br/) • Estágio \
