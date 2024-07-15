@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" width="150px" height="50px" alt="Epics" src="https://www.epics.com.br/assets/logos/logo-epics-branco.svg"/>](https://epics.com.br/)
 
 **Desenvolvedor Full-Stack** \
-[**EPICS**](https://epics.com.br/) • Desenvolvedor Junior \
+[**EPICS**](https://epics.com.br/) • Desenvolvedor \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Vue`, `Laravel`, `CodeIgniter`\
 <br/>
 
