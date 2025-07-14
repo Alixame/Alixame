@@ -25,8 +25,6 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=for-the-badge&logo=webstorm&logoColor=2496ED)
-  ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=for-the-badge&logo=phpstorm&logoColor=b115ef)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)  
