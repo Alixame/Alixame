@@ -79,9 +79,4 @@ Linguagens & Tecnologias: `C#`, `PHP`, `SQL Server`, `Oracle`\
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5517992162676" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5517992162676"/></a>
 
-  <a href="https://www.facebook.com/lucas.alixame" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/lucas.alixame"/></a>
-
-  <a href="https://www.instagram.com/alixamelucas/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
