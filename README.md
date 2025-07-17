@@ -66,7 +66,7 @@ Linguagens & Tecnologias: `C#`, `PHP`, `SQL Server`, `Oracle`\
 <br/>
  
 <p align="center">
-  Entre em contato
+  Entre em contato 2
 </p>
 
 <p align="center">
